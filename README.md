@@ -4,6 +4,4 @@
 
 🌱 I’m currently learning how to balance shipping fast with building systems that scale (and don’t break at 2AM).
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I build productivity apps in my free time.
